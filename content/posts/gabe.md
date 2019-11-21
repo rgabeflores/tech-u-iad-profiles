@@ -26,13 +26,13 @@ Gabe received a B.S. in Computer Science at California State University, Long Be
     * Troubleshooting
 
 ### Projects
-** Python Blog **
+**Python Blog**
 Owned and managed an educational social media account ([@learn.py](https://instagram.com/learn.py)) that covers advanced Python programming concepts.
 
-** Bluetooth Analog Reader **
+**Bluetooth Analog Reader**
 Developed an Android mobile application (Java, XML) that connects to an Arduino sensor setup via Bluetooth LE. The Arduino sensor setup measured renewable energy sources (wind, wave, solar).
 
-** Home Automation Controller **
+**Home Automation Controller**
 Configured a web server on a RaspberryPi that provides a web interface and API accessible via a local network. It can be placed in a home and can be connected to devices to automate appliances.
 
 ### Certifications
